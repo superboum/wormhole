@@ -1,0 +1,2 @@
+stun.ideasip.com
+stun.ekiga.net
